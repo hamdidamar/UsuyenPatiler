@@ -1,0 +1,11 @@
+C:\Users\hmdmr\OneDrive\Documents\Visual Studio 2015\Projects\UsuyenPatiler\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\hmdmr\OneDrive\Documents\Visual Studio 2015\Projects\UsuyenPatiler\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\hmdmr\OneDrive\Documents\Visual Studio 2015\Projects\UsuyenPatiler\EntityLayer\obj\Debug\EntityLayer.csprojResolveAssemblyReference.cache
+C:\Users\hmdmr\OneDrive\Documents\Visual Studio 2015\Projects\UsuyenPatiler\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\hmdmr\OneDrive\Documents\Visual Studio 2015\Projects\UsuyenPatiler\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\ASUS\Desktop\IWP\PROJE\UsuyenPatiler\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\ASUS\Desktop\IWP\PROJE\UsuyenPatiler\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\ASUS\Desktop\IWP\PROJE\UsuyenPatiler\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\IWP\PROJE\UsuyenPatiler\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\IWP\PROJE\UsuyenPatiler\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\ASUS\Desktop\IWP\PROJE\UsuyenPatiler\EntityLayer\obj\Debug\EntityLayer.pdb

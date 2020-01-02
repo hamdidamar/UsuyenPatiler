@@ -1,0 +1,380 @@
+
+
+.responsive body
+{
+   min-width: 240px;
+}
+  
+.responsive .omer-content-layout img,
+.responsive .omer-content-layout video
+{
+   max-width: 100%;
+   height: auto !important;
+}
+
+.responsive.responsive-phone .omer-content-layout img 
+{
+   float: none !important;
+}
+    
+.responsive .omer-content-layout .omer-sidebar0, 
+.responsive .omer-content-layout .omer-sidebar1, 
+.responsive .omer-content-layout .omer-sidebar2 
+{
+   width: auto !important;
+}
+    
+.responsive .omer-content-layout, 
+.responsive .omer-content-layout-row, 
+.responsive .omer-layout-cell 
+{
+   display: block;
+}
+    
+.responsive .image-caption-wrapper 
+{
+   width: auto;
+}
+
+.responsive.responsive-tablet .omer-vmenublock,
+.responsive.responsive-tablet .omer-block
+{
+   margin-left: 1%;
+   margin-right: 1%;
+   width: 48%;
+   float: left;
+   -webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+}
+
+.responsive .omer-responsive-embed 
+{
+   position: relative;
+   padding-bottom: 56.25%;
+   /* 16:9 */
+	height: 0;
+}
+
+.responsive .omer-responsive-embed iframe,
+.responsive .omer-responsive-embed object,
+.responsive .omer-responsive-embed embed
+{
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+}
+
+/* dynamic width nav */
+.responsive nav.omer-nav,
+.responsive .omer-nav-inner
+{
+   width: auto !important;
+   position: relative !important;
+   top: auto !important;
+   left: auto !important;
+   right: auto !important;
+   bottom: auto !important;
+   margin-top: 0;
+   margin-bottom: 0;
+   min-width: 0;
+}
+
+.responsive nav.omer-nav
+{
+   min-width: 1%;
+   margin-top: 1%;
+   margin-right: 1% !important;
+   margin-left: 1% !important;
+}
+
+.responsive .responsive-nav 
+{
+   padding-left: 0;
+   padding-right: 0;
+}
+
+
+.responsive .responsive-nav ul.omer-hmenu 
+{
+   display: block;
+   float: none;
+   text-align: center;
+}
+
+
+.responsive .responsive-nav ul.omer-hmenu li
+{
+   float: none;
+}
+  
+
+.responsive .responsive-nav ul.omer-hmenu>li:first-child, 
+.responsive .responsive-nav ul.omer-hmenu>li:last-child, 
+.responsive .responsive-nav ul.omer-hmenu>li
+{
+   margin-left: 0;
+   margin-right: 0;
+}
+ 
+
+.responsive .responsive-nav ul.omer-hmenu>li:before
+{
+   display: none;
+}
+
+
+.responsive .responsive-nav ul.omer-hmenu a
+{
+   margin-top: 1px !important;
+   margin-bottom: 1px !important;
+   text-align: center;
+   height: auto;
+   white-space: normal;
+}
+
+.responsive .responsive-nav ul.omer-hmenu>li:first-child>a
+{
+   margin-top: 0 !important;
+}
+
+.responsive .responsive-nav ul.omer-hmenu>li:last-child>a
+{
+   margin-bottom: 0 !important;
+}
+
+
+.responsive .responsive-nav .ext, 
+.responsive .responsive-nav ul.omer-hmenu>li>ul, 
+.responsive .responsive-nav ul.omer-hmenu>li>ul>li
+{
+   width: auto !important;
+}
+
+.responsive .responsive-nav ul.omer-hmenu ul
+{
+   left: auto !important;
+   right: auto !important;
+   top: auto !important;
+   bottom: auto !important;
+   display: none !important;
+   position: relative !important;
+   visibility: visible !important;
+}
+
+.responsive .responsive-nav ul.omer-hmenu>li>ul>li:first-child:after 
+{
+   display: none;
+}
+.responsive .responsive-nav ul.omer-hmenu ul a
+{
+   padding-left: 4% !important;
+}
+.responsive .responsive-nav ul.omer-hmenu ul ul a
+{
+   padding-left: 6% !important;
+}
+.responsive .responsive-nav ul.omer-hmenu ul ul ul a
+{
+   padding-left: 8% !important;
+}
+.responsive .responsive-nav ul.omer-hmenu ul ul ul ul a
+{
+   padding-left: 10% !important;
+}
+.responsive .responsive-nav ul.omer-hmenu ul ul ul ul ul a
+{
+   padding-left: 12% !important;
+}
+  
+.responsive .responsive-nav ul.omer-hmenu>li>ul
+{
+   padding: 4px;
+}
+  
+.responsive .responsive-nav ul.omer-hmenu>li>ul:before
+{
+   top: 0;
+   right: 0;
+   bottom: 0;
+   left: 0;
+}
+
+.responsive .omer-header 
+{
+   width: auto;
+   height: auto;
+   min-height: 100px;
+   min-width: 1%;
+   margin-right: 1% !important;
+   margin-left: 1% !important;
+   background-position: center center !important;
+   background-size: cover !important;
+   background-repeat: repeat !important;
+}
+
+.responsive .omer-header .omer-headline, 
+.responsive .omer-header .omer-slogan 
+{
+   display: block !important;
+   top: 0 !important;
+   left: 0 !important;
+   margin: 2% !important;
+}
+    
+.responsive .omer-header .omer-headline a, 
+.responsive .omer-header .omer-slogan 
+{
+   white-space: normal !important;
+}
+    
+.responsive .omer-header .omer-shapes .omer-textblock 
+{
+   padding: 2% !important;
+   margin: 2% !important;
+   line-height: normal;
+   background-image: none;
+   background-color: rgba(127, 127, 127, 0.7);
+   color: #eee !important;
+   display: none;
+   top: auto;
+   left: auto;
+   width: auto;
+   height: auto;
+}
+
+.responsive .omer-header .omer-shapes .omer-textblock *,
+.responsive .omer-header .omer-shapes .omer-textblock a:hover,
+.responsive .omer-header .omer-shapes .omer-textblock a:visited,
+.responsive .omer-header .omer-shapes .omer-textblock a:link 
+{
+   color: #eee !important;
+}
+    
+.responsive .omer-header .omer-shapes .omer-textblock>div 
+{
+   display: none;
+   top: auto;
+   left: auto;
+   width: auto;
+   height: auto;
+   padding: 0 !important;
+}
+
+.responsive .omer-header .omer-shapes,
+.responsive .omer-header .omer-shapes *
+{
+   position: relative;
+   text-align: center;
+   -webkit-transform: none !important;
+   -moz-transform: none !important;
+   -o-transform: none !important;
+   -ms-transform: none !important;
+   transform: none !important;
+}
+
+.responsive .omer-header #omer-flash-area,
+.responsive .omer-header .omer-shapes>*
+{
+   display: none;
+}
+
+.responsive #omer-header-bg 
+{
+   background-position: center center !important;
+   background-size: cover !important;
+   background-repeat: repeat !important;
+}
+
+/* Search */
+.responsive .omer-shapes~.omer-textblock
+{
+   position: relative !important;
+   display: block !important;
+   margin: 1% auto !important;
+   width: 75% !important;
+   top: auto !important;
+   right: auto !important;
+   bottom: auto !important;
+   left: auto !important;
+}
+
+.responsive .omer-sheet
+{
+   width: auto !important;
+   min-width: 240px !important;
+   max-width: none;
+   margin-right: 1% !important;
+   margin-left: 1% !important;
+   margin-top: 1% !important;
+}
+
+#omer-resp {
+   display: none;
+}
+
+@media all and (max-width: 899px)
+{
+    #omer-resp, #omer-resp-t { display: block; }
+    #omer-resp-m { display: none; }
+}
+
+@media all and (max-width: 480px)
+{
+    #omer-resp, #omer-resp-m { display: block; }
+    #omer-resp-t { display: none; }
+}
+
+.responsive .omer-content-layout, 
+.responsive .omer-content-layout-row, 
+.responsive .omer-layout-cell 
+{
+   display: block;
+}
+
+.responsive .omer-layout-cell 
+{
+   width: auto !important;
+   height: auto !important;
+   border-right-width: 0 !important;
+   border-left-width: 0 !important;
+   border-radius: 0 !important;
+}
+
+.responsive .omer-content-layout:after, 
+.responsive .omer-content-layout-row:after, 
+.responsive .omer-layout-cell:after 
+{
+   content: ".";
+   display: block;
+   height: 0;
+   clear: both;
+   visibility: hidden;
+}
+
+.responsive .omer-post
+{
+   border-radius: 0;
+}
+
+.responsive .omer-footer-inner
+{
+   width: auto;
+   padding: 2% !important;
+}
+.responsive .omer-footer
+{
+   margin-top: 1%;
+}
+
+.responsive .responsive-tablet-layout-cell 
+{
+   width: 50% !important;
+   float: left;
+   -webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+}
+
