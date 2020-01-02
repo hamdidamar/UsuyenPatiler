@@ -1,0 +1,31 @@
+C:\Users\hmdmr\OneDrive\Documents\Visual Studio 2015\Projects\UsuyenPatiler\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\hmdmr\OneDrive\Documents\Visual Studio 2015\Projects\UsuyenPatiler\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\hmdmr\OneDrive\Documents\Visual Studio 2015\Projects\UsuyenPatiler\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\hmdmr\OneDrive\Documents\Visual Studio 2015\Projects\UsuyenPatiler\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\hmdmr\OneDrive\Documents\Visual Studio 2015\Projects\UsuyenPatiler\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\hmdmr\OneDrive\Documents\Visual Studio 2015\Projects\UsuyenPatiler\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\hmdmr\OneDrive\Documents\Visual Studio 2015\Projects\UsuyenPatiler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\hmdmr\OneDrive\Documents\Visual Studio 2015\Projects\UsuyenPatiler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\hmdmr\OneDrive\Documents\Visual Studio 2015\Projects\UsuyenPatiler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\ASUS\Desktop\IWP\UsuyenPatiler\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\ASUS\Desktop\IWP\UsuyenPatiler\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\ASUS\Desktop\IWP\UsuyenPatiler\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\ASUS\Desktop\IWP\UsuyenPatiler\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\ASUS\Desktop\IWP\UsuyenPatiler\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\ASUS\Desktop\IWP\UsuyenPatiler\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\ASUS\Desktop\IWP\UsuyenPatiler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\IWP\UsuyenPatiler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\IWP\UsuyenPatiler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\ASUS\Desktop\IWP\UsuyenPatiler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\ASUS\Desktop\IWP\UsuyenPatiler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\ASUS\Desktop\IWP\PROJE\UsuyenPatiler\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\ASUS\Desktop\IWP\PROJE\UsuyenPatiler\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\ASUS\Desktop\IWP\PROJE\UsuyenPatiler\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\ASUS\Desktop\IWP\PROJE\UsuyenPatiler\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\ASUS\Desktop\IWP\PROJE\UsuyenPatiler\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\ASUS\Desktop\IWP\PROJE\UsuyenPatiler\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\ASUS\Desktop\IWP\PROJE\UsuyenPatiler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\IWP\PROJE\UsuyenPatiler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\IWP\PROJE\UsuyenPatiler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\ASUS\Desktop\IWP\PROJE\UsuyenPatiler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\ASUS\Desktop\IWP\PROJE\UsuyenPatiler\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

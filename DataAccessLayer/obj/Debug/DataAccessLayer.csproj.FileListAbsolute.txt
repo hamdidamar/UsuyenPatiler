@@ -1,0 +1,25 @@
+C:\Users\hmdmr\OneDrive\Documents\Visual Studio 2015\Projects\UsuyenPatiler\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\hmdmr\OneDrive\Documents\Visual Studio 2015\Projects\UsuyenPatiler\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\hmdmr\OneDrive\Documents\Visual Studio 2015\Projects\UsuyenPatiler\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\hmdmr\OneDrive\Documents\Visual Studio 2015\Projects\UsuyenPatiler\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\hmdmr\OneDrive\Documents\Visual Studio 2015\Projects\UsuyenPatiler\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\hmdmr\OneDrive\Documents\Visual Studio 2015\Projects\UsuyenPatiler\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\hmdmr\OneDrive\Documents\Visual Studio 2015\Projects\UsuyenPatiler\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\ASUS\Desktop\IWP\UsuyenPatiler\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\ASUS\Desktop\IWP\UsuyenPatiler\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\ASUS\Desktop\IWP\UsuyenPatiler\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\ASUS\Desktop\IWP\UsuyenPatiler\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\ASUS\Desktop\IWP\UsuyenPatiler\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\IWP\UsuyenPatiler\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\IWP\UsuyenPatiler\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\ASUS\Desktop\IWP\UsuyenPatiler\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\ASUS\Desktop\IWP\UsuyenPatiler\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\ASUS\Desktop\IWP\PROJE\UsuyenPatiler\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\ASUS\Desktop\IWP\PROJE\UsuyenPatiler\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\ASUS\Desktop\IWP\PROJE\UsuyenPatiler\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\ASUS\Desktop\IWP\PROJE\UsuyenPatiler\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\ASUS\Desktop\IWP\PROJE\UsuyenPatiler\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\IWP\PROJE\UsuyenPatiler\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\IWP\PROJE\UsuyenPatiler\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\ASUS\Desktop\IWP\PROJE\UsuyenPatiler\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\ASUS\Desktop\IWP\PROJE\UsuyenPatiler\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
